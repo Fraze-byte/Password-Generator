@@ -51,12 +51,12 @@ This project helped reinforce the following Python fundamentals:
 
 ## Sample Output
 
-How many characters do you want your password to be (0-10 characters): 8
-Do you want to include Uppercase letters in your password (y/n): y
-Do you want to include Lowercase letters in your password (y/n): y
-Do you want to include Numbers in your password (y/n): y
-Do you want to include special characters in your password (y/n): n
-Your password is : A7dkM9gf
+- How many characters do you want your password to be (0-10 characters): 8
+- Do you want to include Uppercase letters in your password (y/n): y
+- Do you want to include Lowercase letters in your password (y/n): y
+- Do you want to include Numbers in your password (y/n): y
+- Do you want to include special characters in your password (y/n): n
+- Your password is : A7dkM9gf
 
 Would you like to create another password (y/n): n
 Goodbye!
