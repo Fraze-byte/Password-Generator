@@ -58,8 +58,8 @@ This project helped reinforce the following Python fundamentals:
 - Do you want to include special characters in your password (y/n): n
 - Your password is : A7dkM9gf
 
-Would you like to create another password (y/n): n
-Goodbye!
+- Would you like to create another password (y/n): n
+- Goodbye!
 
 ## Author
 
