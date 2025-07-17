@@ -1,6 +1,6 @@
 # Password Generator
 
-A secure, command-line-based password generator that lets users customize the composition of their password — including length, use of uppercase/lowercase letters, digits, and special characters.
+A secure, command-line-based password generator that lets users customize the composition of their password, including length, use of uppercase/lowercase letters, digits, and special characters.
 
 ## About
 
